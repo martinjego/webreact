@@ -6,7 +6,6 @@ import {
 } from 'react-router-dom'
 import Home from './components/Home';
 import About from './components/About';
-import Topic from './components/Topic';
 import Topics from './components/Topics';
 
 const BasicExample = () => (
